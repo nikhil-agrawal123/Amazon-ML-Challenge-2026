@@ -1,8 +1,7 @@
 # ML Challenge 2026: Business Entity Resolution Solution
 
 **Team Name:** Neural Ninjas  
-**Team Members:** [List all team members]  
-**Submission Date:** [Date]
+**Team Members:** Nikhil Agrawal, Aditri Jain, Snehil Modi, Yatharth Bansal
 
 ---
 
