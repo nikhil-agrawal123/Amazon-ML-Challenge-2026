@@ -1,0 +1,18 @@
+# Python 3.10.12, CUDA 12.1 (driver 535), tested on 1x Tesla V100-PCIE-32GB, 40 CPU cores, 345 GB RAM
+--extra-index-url https://download.pytorch.org/whl/cu121
+torch==2.5.1+cu121
+transformers==5.17.0
+tokenizers==0.23.2
+safetensors==0.8.0
+huggingface-hub==1.32.0
+sentencepiece==0.2.2
+numpy==2.2.6
+polars==1.44.2
+pyarrow==25.0.1
+pandas==2.3.3
+scikit-learn==1.7.2
+scipy==1.15.3
+joblib==1.6.0
+lightgbm==4.7.0
+rapidfuzz==3.14.5
+unidecode==1.4.0
